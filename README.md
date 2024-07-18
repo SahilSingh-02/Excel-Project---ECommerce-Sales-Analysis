@@ -8,7 +8,12 @@
 To analyze and visualize e-commerce sales data to derive meaningful insights.
 ## Objective
 To create a comprehensive dashboard that showcases key metrics and trends in e-commerce sales, enabling better decision-making.
-## Key terms used
+## Key terms used  
+Total Sales: The total revenue generated from sales.  
+Total Profit: The total profit earned after subtracting costs from total sales.  
+Quantity: The number of items sold.  
+Number of Orders: The total count of orders placed.  
+Profit Margin: The percentage of profit relative to sales.  
 ## Key Insights
 Sales and Profit Over Time: Analysis of sales and profit trends throughout the year.  
 Profit by Category:Distribution of profit across different product categories.  
